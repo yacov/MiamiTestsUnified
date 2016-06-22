@@ -1,0 +1,470 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "dd85a167-f1b7-4823-a64e-989f3a0f3077",
+    "Id": "dd85a167-f1b7-4823-a64e-989f3a0f3077",
+    "TestListName": "All",
+    "CreationDate": "2016-05-17T08:30:11",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 7,
+            "EnableScriptLogging": false,
+            "BaseUrl": "http://miami-demo.accelidemo.com/",
+            "KillBrowserProcessOnClose": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 30000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a1c386e0-c81a-4d49-ac1f-1d470f8f02d2",
+          "Path": "504\\Section  ID (1714) - 504 Eligibility Meeting\\Section 504 Eligibility Form\\Section504_Eligibility_Positive.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fc22f048-117b-409f-893a-f385c10fe1f1",
+          "Path": "504\\Section  ID (1714) - 504 Eligibility Meeting\\6111_EligWorkflow.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "66b57e23-d847-4f0c-bb14-b234af6acf17",
+          "Path": "MultiplePlans\\c2bTransition\\C2BTransition_Positive.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "0032cc41-9ac1-4f28-8fe8-5b13bcb9a5d1",
+          "Path": "MultiplePlans\\Data_Form\\CheckDataFormPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "2236593c-677b-4f19-bcd2-5b098bd2d397",
+          "Path": "MultiplePlans\\Data_Form\\DataCheckAutofill.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f7b76abc-36cf-4938-b7c2-2855cbb03f0e",
+          "Path": "MultiplePlans\\Evaluation\\CheckEvaluationPresenceTest504.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6b09c679-778c-4e7d-8271-d3e0c6086cd5",
+          "Path": "MultiplePlans\\Evaluation\\CheckEvaluationPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ea3c83d3-106e-42ae-8d2d-a309c6d197f2",
+          "Path": "MultiplePlans\\Extention\\CheckExtentionPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "5f92a49b-b394-4695-8533-47640ef39116",
+          "Path": "MultiplePlans\\IFSP Transition\\CheckTransitionPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "169585ed-bfbc-4342-9795-f253cac1cc60",
+          "Path": "MultiplePlans\\Part B Rights\\CheckPartBRightsPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "70cb5dea-074e-4d7d-bb7b-88ff008f128b",
+          "Path": "MultiplePlans\\Pwnpr_Form\\CheckPNWPPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "c496569a-205b-4b86-b41c-66e9af2a74dd",
+          "Path": "MultiplePlans\\Pwnpr_Form\\Fape_Check_Fields.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "7968cfbd-7056-40f5-b26d-091ba3008be1",
+          "Path": "MultiplePlans\\Pwnpr_Form\\Fape_Validate Emty_form.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f61e35a3-dd40-4ebc-98c5-e342dd821e81",
+          "Path": "MultiplePlans\\Pwnpr_Form\\FapeVerifyFieldsNames.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f873b649-0b56-4a07-8f7e-410bcc2a1f4c",
+          "Path": "MultiplePlans\\Transportation\\CheckTransportationPresenceTestIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b0000abe-2299-4f38-911b-6f7426ff49ed",
+          "Path": "MultiplePlans\\VerifyCloseOutReasonContent.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "7e46ad57-d8f2-4d58-a106-d9dea1f11b2f",
+          "Path": "ISFP\\IFSP_Agency_Assessment_Review\\Lock_IFSP_Agency_Assessment_Review.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "1dcaf8a3-8406-462d-9cf2-aa44f8ae1806",
+          "Path": "ISFP\\LoginAsAdminIFSPNoIEP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f3c52627-b8e6-42ec-b5db-687daad98b16",
+          "Path": "MultiplePlans\\AgencyAssesment\\AgencyAssesmentCheckPresenceDataModule.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b54965b3-85b6-40ff-b8a4-9c8f11489b31",
+          "Path": "MultiplePlans\\AgencyAssesment\\AgencyAssesmentCheckPresenceTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "7f787f27-26b3-45b3-a064-e910f45f78f2",
+          "Path": "MultiplePlans\\c2bTransition\\PrePartC2BPlanningMeetingCheckPresenceDataModule.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "69654d4c-67ca-4f85-aa75-2d2d2406e234",
+          "Path": "MultiplePlans\\c2bTransition\\PrePartC2BPlanningMeetingCheckPresenceTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "8661e234-899f-4c53-a81c-1ba28f8e2779",
+          "Path": "MultiplePlans\\CommonMethods\\CheckIFEventExistsAndCreateIfNo.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9d96c916-f043-453f-ba8e-46ca07407b40",
+          "Path": "MultiplePlans\\CommonMethods\\CreateAndCheckFormPresence.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ba295c09-1bff-49c1-808f-90e1b4c2ce5b",
+          "Path": "MultiplePlans\\CommonMethods\\CreateAndCheckFormPresenceAndFields.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "e76b4799-a0ce-4e82-b1cf-4ba5a021c426",
+          "Path": "MultiplePlans\\CommonMethods\\CreateEventDataDriven.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3eb1da67-63d6-49ac-8fa8-b98deff0aa47",
+          "Path": "MultiplePlans\\CommonMethods\\CreateEventIfNotExists.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "025cfdda-dcab-46cd-8c65-1aea6a483687",
+          "Path": "MultiplePlans\\Data_Form\\CheckDataFormDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "07c2b879-8ac4-4d15-b034-78c1d26f6427",
+          "Path": "MultiplePlans\\Data_Form\\IDEA_calcTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "160ca521-4bd8-40db-b2fc-d5bccd2b6627",
+          "Path": "MultiplePlans\\Data_Form\\IFSP_Data_Form_negative_no_Es_Initial_Meeting_Date (1).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "717231d5-14c1-4ee3-8d90-8dc2744d46f2",
+          "Path": "MultiplePlans\\Data_Form\\IFSP_Data_Form_negative_no_IFSP_Meeting_Date (1) (1).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "bd5a4603-2b64-42ee-a844-a408b8c59a7b",
+          "Path": "MultiplePlans\\Data_Form\\IFSP_Data_Form_positive.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6319bef8-61f5-4a74-a8b3-20db1af4a7d5",
+          "Path": "MultiplePlans\\Data_Form\\IFSP_Data_IDEA_CalcTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9fffc6eb-4269-4f04-b6f0-05c947fa0e34",
+          "Path": "MultiplePlans\\Evaluation\\CheckEvaluationDataModule504.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3ac5afb0-21c9-467c-bb9b-f56aa8a58f5b",
+          "Path": "MultiplePlans\\Evaluation\\CheckEvaluationDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "cacc3dad-18c3-4b74-90c1-1c3a4a74a83c",
+          "Path": "MultiplePlans\\Extention\\CheckExtentionDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b1f5de26-31d8-471e-ac30-d0df1ccdf3fa",
+          "Path": "MultiplePlans\\IFSP Transition\\CheckTransitionDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "8daf877e-033c-40c1-959d-2bdb2068147d",
+          "Path": "MultiplePlans\\Meeting Signatures\\CheckMeetingSignatureDataModule.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fe81c95e-7b98-4018-9e51-07af52cd4cb8",
+          "Path": "MultiplePlans\\Meeting Signatures\\CheckMeetingSignaturePresenceTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "839ad841-f569-48fc-a1ad-81bb60033f13",
+          "Path": "MultiplePlans\\NoDiscouragementForm\\CheckNoDiscouragementFormDataModule.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9fc451f7-61f7-4438-8776-4005a38347b3",
+          "Path": "MultiplePlans\\NoDiscouragementForm\\CheckNoDiscouragementFormPresenceIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6607e34c-566a-4227-8de1-c1daea3c0c3d",
+          "Path": "MultiplePlans\\NoDiscouragementForm\\NonDiscouragementAutofillTest.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "e10dc940-057d-4314-8670-59c8382db3cd",
+          "Path": "MultiplePlans\\Part B Rights\\CheckPartBRightsDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "91b14d58-0665-44b1-8d5f-b4130337332d",
+          "Path": "MultiplePlans\\Pwnpr_Form\\CheckPNWPDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "cdaddc35-baeb-4d89-a393-53302d76f716",
+          "Path": "MultiplePlans\\Pwnpr_Form\\Fape_Print.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "5d9cb3a0-e14f-4431-926b-0cac9e89c34d",
+          "Path": "MultiplePlans\\Transportation\\CheckTransportationDataModuleIFSP.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "58e2c9f8-a5e2-4e57-a414-24c7c8433068",
+          "Path": "MultiplePlans\\CheckForm.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "c0edf669-7ff1-4b8b-a7d9-9a61fd28e3f2",
+          "Path": "MultiplePlans\\CheckPresence.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "85473516-bf48-4c89-a5c7-0f6fdda37769",
+          "Path": "MultiplePlans\\Create504CLoseOut.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "1657265c-a442-447b-8e8f-c75ee784d247",
+          "Path": "MultiplePlans\\CreateForm.tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "aa111da7-2e74-4d70-9ee0-e3a3a9ddc81e"
+  }
+}

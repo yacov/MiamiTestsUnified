@@ -1,0 +1,394 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerMetadataConfigurationSet",
+  "__value": {
+    "_bFirstTimeUserConfigurationComplete": true,
+    "Metadata": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerResultsMetadata",
+      "__value": {
+        "_resultsId": "00000000-0000-0000-0000-000000000000",
+        "_ownerTestId": "00000000-0000-0000-0000-000000000000",
+        "_startTime": "0001-01-01T00:00:00",
+        "_totalTime": "00:00:00",
+        "_bCollectProfilerSampleData": true,
+        "_strDescription": null,
+        "_strFolder": "C:\\Users\\Iakov\\AppData\\Local\\Temp\\",
+        "_strFilePath": null,
+        "_browserType": 1,
+        "_browserVersion": null,
+        "_bClearBrowserCacheBeforeRun": false,
+        "_bWarmUpServerBeforeRun": false
+      }
+    },
+    "ClientPluginConfigurations": {},
+    "Servers": {
+      "4a2f39f3-fe5e-4e72-b3c3-d0675d55597e": {
+        "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerServerMetadata",
+        "__value": {
+          "CollectProfilerSampleData": true,
+          "Description": null,
+          "Name": "local",
+          "ProfilerPluginSettings": {
+            "a43b256e-1b44-415f-ade4-6e3ea44eb755": {
+              "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.PerformanceCounterProfiler.PerformanceCounterConfigurationSettings",
+              "__value": [
+                {
+                  "Key": "TCPIP Performance Diagnostics",
+                  "Value": {
+                    "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObject",
+                    "__value": {
+                      "Name": "TCPIP Performance Diagnostics",
+                      "Description": null,
+                      "Instances": {
+                        "instance-dde55ffa-57ce-4378-ad0b-b534fdbc6e2f": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "Denied connect or send requests in low-power mode": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Denied connect or send requests in low-power mode",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-61038e8f-b3b1-4aeb-931c-eb41573b8699": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs indicated with low-resource flag": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs indicated with low-resource flag",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-22537a3f-c105-4fce-812c-a9eec1b4bc31": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs indicated without prevalidation": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs indicated without prevalidation",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-3ce504b2-3d19-4b46-bb35-01c6f2dbae0c": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs treated as non-prevalidated": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs treated as non-prevalidated",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-f9b8c073-5e38-4aad-9dc9-71ea3f9445b7": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs/sec indicated with low-resource flag": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs/sec indicated with low-resource flag",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-222acf6c-4090-4aa1-85c0-3e83d00d8b5e": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs/sec indicated without prevalidation": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs/sec indicated without prevalidation",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-5a9da2d9-4b08-4664-b2bb-2b800f24eb97": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 NBLs/sec treated as non-prevalidated": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 NBLs/sec treated as non-prevalidated",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-91f3616a-577e-4437-a749-7b033d64fe94": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 outbound NBLs not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 outbound NBLs not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-61dcc2d1-a34b-432d-b477-70c9cccc4f1a": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv4 outbound NBLs/sec not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv4 outbound NBLs/sec not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-3d69e2ea-6ed7-4919-bd17-9f2cacda5a90": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs indicated with low-resource flag": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs indicated with low-resource flag",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-96cbdd71-58cf-44bb-b48b-91396b55179b": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs indicated without prevalidation": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs indicated without prevalidation",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-ba0b3883-ddf9-4d3a-8b59-4dc525f2cbb0": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs treated as non-prevalidated": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs treated as non-prevalidated",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-aadf61f2-a0d0-4612-a0fe-446ba2b1db40": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs/sec indicated with low-resource flag": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs/sec indicated with low-resource flag",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-d34db119-4871-47af-a586-9eb52b322291": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs/sec indicated without prevalidation": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs/sec indicated without prevalidation",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-53e3d7e2-4f73-4696-baf4-bbd7c1b529ec": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 NBLs/sec treated as non-prevalidated": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 NBLs/sec treated as non-prevalidated",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-301572a4-6606-4e93-adb2-cdd275f0883a": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 outbound NBLs not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 outbound NBLs not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-01b0fac5-f9b3-4c01-8000-40b76a7a9dcf": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "IPv6 outbound NBLs/sec not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "IPv6 outbound NBLs/sec not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-fa79030b-8252-498d-bd51-0a258e647232": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "TCP connect requests fallen off loopback fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "TCP connect requests fallen off loopback fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-bbc40179-6cbe-4419-879b-906840acc5c8": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "TCP connect requests/sec fallen off loopback fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "TCP connect requests/sec fallen off loopback fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-c0369968-68ac-412a-893a-c6ca2214427e": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "TCP inbound segments not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "TCP inbound segments not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "instance-680ee5ac-ad9a-467d-9cc9-a23c2457a6e2": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": null,
+                            "Counters": {
+                              "TCP inbound segments/sec not processed via fast path": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "TCP inbound segments/sec not processed via fast path",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "ServerId": "4a2f39f3-fe5e-4e72-b3c3-d0675d55597e",
+          "ServerPath": "localhost",
+          "ServerPort": 55555,
+          "ServerType": 0
+        }
+      }
+    },
+    "Version": "2016.1.321.0"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerMetadataConfigurationSet",
+  "__value": {
+    "_bFirstTimeUserConfigurationComplete": true,
+    "Metadata": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerResultsMetadata",
+      "__value": {
+        "_resultsId": "00000000-0000-0000-0000-000000000000",
+        "_ownerTestId": "00000000-0000-0000-0000-000000000000",
+        "_startTime": "0001-01-01T00:00:00",
+        "_totalTime": "00:00:00",
+        "_bCollectProfilerSampleData": true,
+        "_strDescription": null,
+        "_strFolder": "C:\\Users\\Iakov\\AppData\\Local\\Temp\\",
+        "_strFilePath": null,
+        "_browserType": 1,
+        "_browserVersion": null,
+        "_bClearBrowserCacheBeforeRun": false,
+        "_bWarmUpServerBeforeRun": false
+      }
+    },
+    "ClientPluginConfigurations": {},
+    "Servers": {
+      "6102d4b0-40c7-4475-87aa-cb1e09fb2075": {
+        "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.ProfilerServerMetadata",
+        "__value": {
+          "CollectProfilerSampleData": true,
+          "Description": null,
+          "Name": "volf",
+          "ProfilerPluginSettings": {
+            "a43b256e-1b44-415f-ade4-6e3ea44eb755": {
+              "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.PerformanceCounterProfiler.PerformanceCounterConfigurationSettings",
+              "__value": [
+                {
+                  "Key": "Физический диск",
+                  "Value": {
+                    "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObject",
+                    "__value": {
+                      "Name": "Физический диск",
+                      "Description": null,
+                      "Instances": {
+                        "_Total": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": "_Total",
+                            "Counters": {
+                              "% активности диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "% активности диска при записи": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска при записи",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "% активности диска при чтении": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска при чтении",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений записи на диск/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений записи на диск/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений к диску/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений к диску/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений чтения с диска/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений чтения с диска/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Процент времени бездействия": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Процент времени бездействия",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Расщеплений ввода-вывода/сек": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Расщеплений ввода-вывода/сек",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость записи на диск (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость записи на диск (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость обмена с диском (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость обмена с диском (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость чтения с диска (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость чтения с диска (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время записи на диск (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время записи на диск (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время обращения к диску (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время обращения к диску (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время чтения с диска (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время чтения с диска (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одного обмена с диском (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одного обмена с диском (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одного чтения с диска (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одного чтения с диска (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одной записи на диск (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одной записи на диск (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди записи на диск": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди записи на диск",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди чтения диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди чтения диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Текущая длина очереди диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Текущая длина очереди диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "0 E: C:": {
+                          "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceObjectInstance",
+                          "__value": {
+                            "Name": "0 E: C:",
+                            "Counters": {
+                              "% активности диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "% активности диска при записи": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска при записи",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "% активности диска при чтении": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "% активности диска при чтении",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений записи на диск/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений записи на диск/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений к диску/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений к диску/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Обращений чтения с диска/с": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Обращений чтения с диска/с",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Процент времени бездействия": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Процент времени бездействия",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Расщеплений ввода-вывода/сек": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Расщеплений ввода-вывода/сек",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость записи на диск (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость записи на диск (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость обмена с диском (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость обмена с диском (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Скорость чтения с диска (байт/с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Скорость чтения с диска (байт/с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время записи на диск (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время записи на диск (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время обращения к диску (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время обращения к диску (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Среднее время чтения с диска (с)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Среднее время чтения с диска (с)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одного обмена с диском (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одного обмена с диском (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одного чтения с диска (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одного чтения с диска (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средний размер одной записи на диск (байт)": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средний размер одной записи на диск (байт)",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди записи на диск": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди записи на диск",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Средняя длина очереди чтения диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Средняя длина очереди чтения диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              },
+                              "Текущая длина очереди диска": {
+                                "__type": "ArtOfTest.WebAii.Design.Execution.Profiler.SampledPerformanceCounter",
+                                "__value": {
+                                  "Name": "Текущая длина очереди диска",
+                                  "Description": null,
+                                  "Samples": []
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "ServerId": "6102d4b0-40c7-4475-87aa-cb1e09fb2075",
+          "ServerPath": "volf",
+          "ServerPort": 55555,
+          "ServerType": 0
+        }
+      }
+    },
+    "Version": "2016.1.321.0"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.ProjectModel.Test",
+  "__value": {
+    "DomStatesCounter": {},
+    "WebKitExecutionDelay": 0,
+    "ReuseAppWindow": 0,
+    "ProfilerResultsDirectory": null,
+    "ProfilerServerName": null,
+    "ProfilerBenchmarkResultsFilePath": null,
+    "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurations": {},
+    "CurrentReferences": [],
+    "Steps": {
+      "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
+      "__value": [
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "a969891d-cabe-434d-aa9e-368b92d01177",
+            "Description": "Execute test 'CreateAndCheckFormPresence'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "TestName": "CreateAndCheckFormPresence",
+                "TestPath": "MultiplePlans\\CommonMethods\\CreateAndCheckFormPresence.tstest",
+                "TestUniqueId": "9d96c916-f043-453f-ba8e-46ca07407b40",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 1,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "CheckMeetingSignatureDataModuleq5kbafqu.smp",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        }
+      ]
+    },
+    "IndependentDescriptors": [],
+    "HtmlDescription": "",
+    "SilverlightEnabled": false,
+    "IsSilverlightApp": false,
+    "SilverlightAppWebUrl": "",
+    "SilverlightAppLocalDirectory": "",
+    "SilverlightAppRecordLocal": false,
+    "SilverlightAppOriginUri": null,
+    "WpfAppPath": null,
+    "UseDefaultWpfAppPath": false,
+    "TestAssembly": "MiamiDade.dll",
+    "TestAssemblyPath": "bin",
+    "TestClass": "",
+    "IsManual": false,
+    "ResourceFilePath": "MultiplePlans\\Meeting Signatures\\CheckMeetingSignatureDataModule.resx",
+    "HasCodeBehind": false,
+    "DataInfo": {
+      "__type": "ArtOfTest.Common.Design.Data.DataInfo",
+      "__value": {
+        "ConnectionString": "",
+        "DefaultToGrid": false,
+        "DataRange": "",
+        "LoadRecordsCount": null,
+        "DataTableName": "MeetingSignature$",
+        "DataProvider": "FunctionalTests.xls",
+        "DataEnabled": true,
+        "HasBuiltinGrid": true,
+        "DataType": 5,
+        "BuiltInData": [
+          {
+            "Col1": "IFSP Annual Meeting",
+            "Col2": "IFSP Extention Form",
+            "Col3": "IFSP Extention Form",
+            "Col4": "IFSP Annual Meeting",
+            "Col5": null
+          },
+          {
+            "Col1": "IFSP Interim Meeting",
+            "Col2": "IFSP Extention Form",
+            "Col3": "IFSP Extention Form",
+            "Col4": "Interim Meeting",
+            "Col5": null
+          },
+          {
+            "Col1": "IFSP Part C to Part B Meeting",
+            "Col2": "IFSP Extention Form",
+            "Col3": "IFSP Extention Form",
+            "Col4": "IFSP Part C to Part B Meeting",
+            "Col5": null
+          },
+          {
+            "Col1": "IFSP Initial Meeting",
+            "Col2": "IFSP Extention Form",
+            "Col3": "IFSP Extention Form",
+            "Col4": "Initial Meeting",
+            "Col5": null
+          }
+        ],
+        "BuiltInDocumentKey": null,
+        "TSQL": ""
+      }
+    },
+    "VSProperties": {},
+    "DeploymentItems": [],
+    "IsTestFragment": false,
+    "StopTestListOnFailure": false,
+    "InheritParentDataSource": false,
+    "BrowserType": 0,
+    "QcId": 0,
+    "QcFilePath": null,
+    "QcTestVersionStamp": 0,
+    "TestLinks": [],
+    "Description": "",
+    "Name": "CheckMeetingSignatureDataModule",
+    "Owner": "",
+    "Path": "MultiplePlans\\Meeting Signatures\\CheckMeetingSignatureDataModule.tstest",
+    "Priority": 0,
+    "TestType": 0,
+    "UniqueId": "8daf877e-033c-40c1-959d-2bdb2068147d",
+    "Id": "8daf877e-033c-40c1-959d-2bdb2068147d",
+    "ProjectId": "aa111da7-2e74-4d70-9ee0-e3a3a9ddc81e",
+    "Version": 200
+  }
+}
