@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "3752ded4-47c2-4edd-b785-69c15d86ae48",
+            "Runtime ID": "61802055-507f-44e5-b6a1-de47a0fd2aef",
             "Description": "IF (Verify 'InnerText' 'NotContain' '' on 'Table')",
             "CustomDescription": null,
             "Step": {
@@ -520,7 +520,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "FBYBxYzIr62eLfo4gavvZvWMYJk=",
+                                            "uniqueKey": "ZMDpH+n4j3bU641of8fm/w5ARwM=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "EventListToCreate0",
@@ -546,7 +546,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TextContent=$(EventGroup)"
+                                                          "Clause": "TextContent=IFSP Annual Meeting"
                                                         }
                                                       }
                                                     ],
@@ -559,9 +559,7 @@
                                               }
                                             ],
                                             "BackupSearchClause": null,
-                                            "DataBindingExpressions": {
-                                              "Expression": "id=EventGroupDefinitionId_listbox,|,tagname=li,TextContent=$(EventGroup)"
-                                            }
+                                            "DataBindingExpressions": {}
                                           }
                                         },
                                         "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
