@@ -425,7 +425,7 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "TestName": "OpenSave Notice of Meeting.tstest",
-                "TestPath": "OpenAndSaveformForNewPerformance\\OpenSave Notice of Meeting.tstest",
+                "TestPath": "OpenAndSaveformForNewPerformance\\Forms\\OpenSave Notice of Meeting.tstest",
                 "TestUniqueId": "506f7f4f-fe1c-49bb-966c-d7092f3de201",
                 "Pause": 0,
                 "RunsAgainstVersion": "",
