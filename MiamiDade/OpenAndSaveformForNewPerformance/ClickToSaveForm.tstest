@@ -118,7 +118,7 @@
             "Order": 1,
             "Id": "",
             "StepState": 0,
-            "ContinueOnFailure": false,
+            "ContinueOnFailure": true,
             "StepImageKey": "OpenSaveDataFormTest1jijubtt.eea",
             "QcId": 0,
             "QcVersionStamp": 0,
