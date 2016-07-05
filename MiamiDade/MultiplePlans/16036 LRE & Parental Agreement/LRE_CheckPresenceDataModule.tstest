@@ -78,9 +78,9 @@
       "__value": {
         "ConnectionString": "",
         "DefaultToGrid": false,
-        "DataRange": ":",
+        "DataRange": "",
         "LoadRecordsCount": null,
-        "DataTableName": "PrePartC2PartB$",
+        "DataTableName": "LRE$",
         "DataProvider": "FunctionalTests2.xls",
         "DataEnabled": true,
         "HasBuiltinGrid": false,

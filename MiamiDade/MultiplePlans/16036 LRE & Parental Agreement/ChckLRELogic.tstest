@@ -10,14 +10,24 @@
     "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurations": {},
-    "CurrentReferences": [],
+    "CurrentReferences": [
+      "System",
+      "System.Core",
+      "ArtOfTest.WebAii, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Design, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+      "Telerik.WebAii.Controls.Html, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml.Wpf, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI, Version=2016.1.330.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
     "Steps": {
       "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
       "__value": [
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "9d42ac9d-5cc4-4ff5-8ce8-7491771b18d8",
+            "Runtime ID": "9cfc3fce-1d13-4d0a-9554-a7560e01817f",
             "Description": "Execute test 'LoginAsAdminIFSPNoIEP'",
             "CustomDescription": null,
             "Step": {
@@ -49,7 +59,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "PrePartC2BPlanningMeetingCheckPresenceTested0qnx32.ehr",
+            "StepImageKey": "ChckLRELogic3k4peitk.y0p",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -58,7 +68,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "91dc6031-122b-4afa-ac83-6e3bd2cc0a61",
+            "Runtime ID": "8bd816f2-76c7-4694-96fd-828c37710b66",
             "Description": "Execute test 'GoTo10YStIEP'",
             "CustomDescription": null,
             "Step": {
@@ -90,7 +100,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "LRE_CheckPresenceTestd3um0pld.zyg",
+            "StepImageKey": "ChckLRELogic51mlf4n0.vx3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -99,27 +109,97 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "37cda553-2521-4388-bc95-ae76f0056706",
-            "Description": "Execute test 'LRE_CheckPresenceDataModule'",
+            "Runtime ID": "8a0ec851-c023-4229-9e20-efa52b18ee7c",
+            "Description": "Click 'IEPInterimLink'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
               "__value": {
-                "WaitOnElementsTimeout": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": false,
-                "TestName": "LRE_CheckPresenceDataModule",
-                "TestPath": "MultiplePlans\\16036 LRE & Parental Agreement\\LRE_CheckPresenceDataModule.tstest",
-                "TestUniqueId": "214236c7-b4ed-4ff6-bfa5-c3d5b0cc5fbd",
+                "SimulateRealClick": false,
+                "UsejQuery": true,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
                 "RunsAgainstVersion": "",
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
                   }
                 },
-                "Elements": {},
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "/Plan/Students/ViewStudent",
+                          "Query": "?CommonStudentId=247193&StudentViewType=Events&ProgramType=MiamiIFSP",
+                          "BaseUrl": "https://dade-pilot.acceliplan.com",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Accelify - EDGAR ABADA",
+                          "CompareMode": 4,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "AccelifyEDGARABADA"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "FtvymBAVc1FTsgE2Wjh+JsWoDqU=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "IEPInterimLink",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "href=/Plan/Events/ViewEvent?eventId=c06aacc9-346d-4886-8c1e-a63a00b3e2fd"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[3]/td[3]/a[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
                 "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
@@ -131,7 +211,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "LRE_CheckPresenceTestxn5pqrmh.eqm",
+            "StepImageKey": "ChckLRELogicxbatmipz.yrt",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -153,7 +233,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "MultiplePlans\\16036 LRE & Parental Agreement\\LRE_CheckPresenceTest.resx",
+    "ResourceFilePath": "MultiplePlans\\16036 LRE & Parental Agreement\\ChckLRELogic.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -181,17 +261,15 @@
     "QcId": 0,
     "QcFilePath": null,
     "QcTestVersionStamp": 0,
-    "CustomProperty1": "test",
-    "CustomProperty2": "ready",
     "TestLinks": [],
     "Description": "",
-    "Name": "LRE_CheckPresenceTest",
+    "Name": "ChckLRELogic",
     "Owner": "",
-    "Path": "MultiplePlans\\16036 LRE & Parental Agreement\\LRE_CheckPresenceTest.tstest",
+    "Path": "MultiplePlans\\16036 LRE & Parental Agreement\\ChckLRELogic.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "7d3a657a-bb25-4966-8c88-b91940d86bfc",
-    "Id": "7d3a657a-bb25-4966-8c88-b91940d86bfc",
+    "UniqueId": "d53eafac-e8d4-4015-a313-ec24a684b58a",
+    "Id": "d53eafac-e8d4-4015-a313-ec24a684b58a",
     "ProjectId": "aa111da7-2e74-4d70-9ee0-e3a3a9ddc81e",
     "Version": 200
   }
