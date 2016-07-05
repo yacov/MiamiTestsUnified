@@ -117,7 +117,7 @@
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
-                "TestName": "CheckPNWPDataModuleIFSP.tstest",
+                "TestName": "CheckPNWPDataModuleIFSP",
                 "TestPath": "MultiplePlans\\Pwnpr_Form\\CheckPNWPDataModuleIFSP.tstest",
                 "TestUniqueId": "91b14d58-0665-44b1-8d5f-b4130337332d",
                 "Pause": 0,

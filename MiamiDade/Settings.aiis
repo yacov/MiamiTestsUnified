@@ -211,7 +211,7 @@
     ],
     "ScheduleServerUrl": "http://volf:8009/",
     "IsScheduleServerRemote": true,
-    "ProjectVersion": "2016.1.321.0",
+    "ProjectVersion": "2016.2.610.0",
     "Namespace": "MiamiDade",
     "AssemblyName": "MiamiDade",
     "OutputFolder": "bin",
@@ -245,7 +245,7 @@
               }
             }
           },
-          "CurrentVersion": "2016.1.609.0",
+          "CurrentVersion": "2016.2.630.0",
           "XmlBlob": null
         }
       }

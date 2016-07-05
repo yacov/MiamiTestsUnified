@@ -76,7 +76,7 @@
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
-                "TestName": "GoTo10YStIFSP.tstest",
+                "TestName": "GoTo10YStIFSP",
                 "TestPath": "Methods\\GoTo10YStIFSP.tstest",
                 "TestUniqueId": "cfe4db5a-59fd-43df-804d-646e05a86e50",
                 "Pause": 0,

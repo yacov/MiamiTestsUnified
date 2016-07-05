@@ -35,7 +35,7 @@
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
-                "TestName": "LoginAsAdminHampton.tstest",
+                "TestName": "LoginAsAdminHampton",
                 "TestPath": "Methods\\LoginAsAdminHampton.tstest",
                 "TestUniqueId": "1df0a88b-4ac4-4433-81fc-e59e591bd964",
                 "Pause": 0,

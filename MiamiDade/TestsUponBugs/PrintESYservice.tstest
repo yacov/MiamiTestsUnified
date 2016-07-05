@@ -35,7 +35,7 @@
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
-                "TestName": "LoginAsAdminHamptonNoIEP.tstest",
+                "TestName": "LoginAsAdminHamptonNoIEP",
                 "TestPath": "Methods\\LoginAsAdminHamptonNoIEP.tstest",
                 "TestUniqueId": "5364cb93-6848-432b-ab41-431d72e4b2fa",
                 "Pause": 0,
